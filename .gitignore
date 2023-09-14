@@ -1,0 +1,9 @@
+/db.sqlite3
+/venv/
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/jumpToDjango.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
