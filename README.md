@@ -1,16 +1,17 @@
 ## Django jumpToDjango Project
 - 1장 파이썬 개발 설정 완료
-- 2-1장 pycharm 장고 pybo 앱 생성
-- 2-1장 urls.py 작성
-- 2-1장 urls.py 분리
-- 2-1장 sqllite migrate
-- 2-2장 모델 작성
-- 2-2장 장고 ORM test
-- 2-3장 장고 Admin 설정
-- 2-4장 장고 MVT 패턴 기초 연습
-- 2-4장 장고 urls name 사용 연습
-- 2-5장 장고 namespace 사용하기
-- 2-6장 답변 등록 기능 만들기
-- 2-7장 화면 이쁘게 꾸미기(css 적용)
-- 2-8장 부트스트랩으로 더 쉽게 화면 꾸미기
-- 2-9장 표준 HTML과 탬플릿 상속 사용해 보기
+- 2-01장 pycharm 장고 pybo 앱 생성
+- 2-01장 urls.py 작성
+- 2-01장 urls.py 분리
+- 2-01장 sqllite migrate
+- 2-02장 모델 작성
+- 2-02장 장고 ORM test
+- 2-03장 장고 Admin 설정
+- 2-04장 장고 MVT 패턴 기초 연습
+- 2-04장 장고 urls name 사용 연습
+- 2-05장 장고 namespace 사용하기
+- 2-06장 답변 등록 기능 만들기
+- 2-07장 화면 이쁘게 꾸미기(css 적용)
+- 2-08장 부트스트랩으로 더 쉽게 화면 꾸미기
+- 2-09장 표준 HTML과 탬플릿 상속 사용해 보기
+- 2-10장 질문 등록 기능 만들기
