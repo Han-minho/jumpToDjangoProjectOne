@@ -3,4 +3,5 @@ from pybo import views
 
 urlpatterns = [
     path('', views.index, name='home'),
+    path('<int:question_id>/', views.detail, name='detail'),
 ]
